@@ -36,45 +36,39 @@ I analyze business problems, understand processes, and design practical solution
 
 ---
 
-## 📂 Portfolio
-
-<table>
+<table width="100%">
+  <colgroup>
+    <col width="50%">
+    <col width="50%">
+  </colgroup>
   <tr>
-    <td align="center" width="50%">
-
-### 📚 Project BA
-
-**1 Year Quest to Analyze 100 Business Processes**
-
-- Business Process Analysis
-- BPMN
-- Root Cause Analysis
-- Requirements
-- Solution Design
-
-<br/>
-
-<a href="./Project-BA/README.md">
-  <img src="https://img.shields.io/badge/Explore-Project_BA-813cb9?style=for-the-badge"/>
-</a>
+    <td width="50%" valign="top">
+      <h3>📚 Project BA</h3>
+      <b>1 Year Quest to Analyze 100 Business Processes</b>
+      <ul>
+        <li>Business Process Analysis</li>
+        <li>BPMN</li>
+        <li>Root Cause Analysis</li>
+        <li>Requirements</li>
+        <li>Solution Design</li>
+      </ul>
+      <a href="./Project-BA/README.md">
+        <img src="https://img.shields.io/badge/Explore-Project_BA-813cb9?style=for-the-badge"/>
+      </a>
     </td>
-    <td align="center" width="50%">
-
-### 💼 Client Projects
-
-**Real-World Business Solutions**
-
-- Business Analysis
-- Process Improvement
-- Requirements Analysis
-- Systems Analysis
-- Solution Design
-
-<br/>
-
-<a href="./Client-Projects/README.md">
-  <img src="https://img.shields.io/badge/Explore-Client_Projects-813cb9?style=for-the-badge"/>
-</a>
+    <td width="50%" valign="top">
+      <h3>💼 Client Projects</h3>
+      <b>Real-World Business Solutions</b>
+      <ul>
+        <li>Business Analysis</li>
+        <li>Process Improvement</li>
+        <li>Requirements Analysis</li>
+        <li>Systems Analysis</li>
+        <li>Solution Design</li>
+      </ul>
+      <a href="./Client-Projects/README.md">
+        <img src="https://img.shields.io/badge/Explore-Client_Projects-813cb9?style=for-the-badge"/>
+      </a>
     </td>
   </tr>
 </table>
