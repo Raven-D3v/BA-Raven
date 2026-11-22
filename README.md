@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="BA Raven Banner"/>
+  <img src="https://github.com/Raven-D3v/ProjectData/blob/cfd1a96f7061a82591aa32b261e3a49bfe2e120d/6109140179248857812.jpg" alt="BA Raven Banner"/>
 </p>
 
 <h1 align="center">🧩 BA Raven</h1>
@@ -27,11 +27,9 @@ I analyze business problems, understand processes, and design practical solution
 - 📈 Identify improvement opportunities
 
 > Understand the problem. Analyze the process. Design the solution.
-
     </td>
-
     <td align="center" width="30%">
-      <img src="YOUR_PROFILE_IMAGE_URL" width="250"/>
+      <img src="https://github.com/Raven-D3v/ProjectData/blob/1f0d39cb115a8f0fa829e2ce013d0070c52ee1f2/PrRaven-portrait.png.jpg" width="250"/>
     </td>
   </tr>
 </table>
@@ -59,9 +57,7 @@ I analyze business problems, understand processes, and design practical solution
 <a href="./Project-BA/README.md">
   <img src="https://img.shields.io/badge/Explore-Project_BA-813cb9?style=for-the-badge"/>
 </a>
-
     </td>
-
     <td align="center" width="50%">
 
 ### 💼 Client Projects
@@ -79,7 +75,6 @@ I analyze business problems, understand processes, and design practical solution
 <a href="./Client-Projects/README.md">
   <img src="https://img.shields.io/badge/Explore-Client_Projects-813cb9?style=for-the-badge"/>
 </a>
-
     </td>
   </tr>
 </table>
