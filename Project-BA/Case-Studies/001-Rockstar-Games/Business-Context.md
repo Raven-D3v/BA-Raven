@@ -1,5 +1,9 @@
 # Case Study #001 — Rockstar Games
 
+<p align="center">
+  <img src="src/Rockstar-Banner.webp" alt="Rockstar Games Banner" width="100%">
+</p>
+
 ## Business Context Analysis
 
 > **Project BA — 1-Year Quest to Analyze 100 Business Processes**
@@ -37,6 +41,10 @@ The company develops and publishes interactive entertainment experiences across 
 
 ## 2. Products and Services
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
 ### 🎮 Products
 
 - Grand Theft Auto Series
@@ -52,6 +60,16 @@ The company develops and publishes interactive entertainment experiences across 
 - GTA+
 - Online gaming experiences
 - Digital gaming services
+
+    </td>
+    <td width="35%" align="center" valign="top">
+
+<img src="src/GTA6-Poster.jpg" alt="Grand Theft Auto VI Poster" width="100%">
+
+**Grand Theft Auto VI**
+    </td>
+  </tr>
+</table>
 
 ---
 
