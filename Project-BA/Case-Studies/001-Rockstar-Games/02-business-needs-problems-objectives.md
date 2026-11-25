@@ -1,5 +1,5 @@
 
-# Case Study 001: Rockstar Games
+# Case Study #001 — Rockstar Games
 
 <p align="center">
   <img src="src/Rockstar-Banner.webp" alt="Rockstar Games Banner" width="100%">
@@ -7,29 +7,37 @@
 
 ## II. Business Needs, Problems & Objectives
 
-**Project:** Project BA — 1-Year Quest to Analyze 100 Business Processes  
-**Company:** Rockstar Games  
-**Industry:** Video Game Development & Publishing  
-**Parent Company:** Take-Two Interactive  
-**Analysis Stage:** Business Needs, Problems & Objectives
+> **Project BA — 1-Year Quest to Map 100 Business Processes**
 
 ---
 
-## 1. Overview
+## 📌 Overview
 
-This case study explores Rockstar Games' business context, potential business needs, problems, objectives, opportunities, and desired outcomes.
+This document identifies Rockstar Games' potential business needs, problems, objectives, opportunities, and desired business outcomes.
 
-The purpose is to understand what the organization needs to achieve, identify potential challenges, and establish a foundation for further Business Analysis activities.
+The objective is to understand what the organization needs to achieve, identify potential challenges that may prevent it from achieving its objectives, and establish opportunities for further Business Analysis.
 
-**Scope:** This analysis is based on publicly available information. Potential problems and root causes are hypotheses, not confirmed internal business issues.
+This analysis is based on publicly available information and the business context established in the previous document.
 
-## 2. Business Context
+> **Note:** Potential business problems and root causes are analytical hypotheses, not confirmed internal business issues.
+
+---
+
+## 1. Business Context
+
+### Business Overview
 
 Rockstar Games is a video game developer and publisher owned by Take-Two Interactive. It develops premium games such as Grand Theft Auto and Red Dead Redemption, generating revenue through game sales, online services, subscriptions, and in-game purchases.
 
+### Business Context Summary
+
 Rockstar operates in a competitive gaming industry where player expectations, technological advancements, development costs, and long-term engagement influence its success.
 
-## 3. Business Needs
+---
+
+## 2. Business Needs
+
+Business needs describe what the organization needs to achieve, improve, address, or maintain.
 
 | # | Business Need | Why It Matters |
 |---|---|---|
@@ -39,9 +47,15 @@ Rockstar operates in a competitive gaming industry where player expectations, te
 | 4 | Maintain Product Quality and Innovation | Differentiates Rockstar from competitors. |
 | 5 | Ensure Sustainable Game Operations | Supports efficient development and reliable online services. |
 
-**Summary:** Rockstar needs to deliver successful games, maintain long-term player engagement, generate recurring revenue, protect product quality, and sustain its gaming ecosystem.
+### Business Needs Summary
 
-## 4. Potential Business Problems
+Rockstar needs to deliver successful games, maintain long-term player engagement, generate recurring revenue, protect product quality, and sustain its gaming ecosystem.
+
+---
+
+## 3. Potential Business Problems
+
+Business problems describe potential conditions that may negatively affect the organization's ability to achieve its business needs and objectives.
 
 | # | Potential Business Problem | Potential Business Impact |
 |---|---|---|
@@ -51,9 +65,15 @@ Rockstar operates in a competitive gaming industry where player expectations, te
 | 4 | Maintaining a stable and fair online gaming environment. | Cheating, disruptions, or security incidents may affect player satisfaction. |
 | 5 | Managing player migration between major releases and existing games. | May affect engagement and revenue from existing online services. |
 
-**Summary:** Rockstar may face challenges maintaining sustainable revenue and player engagement while managing high development costs, franchise dependence, and online gaming operations.
+### Problem Summary
 
-## 5. Business Objectives
+Rockstar may face challenges maintaining sustainable revenue and player engagement while managing high development costs, franchise dependence, and online gaming operations.
+
+---
+
+## 4. Business Objectives
+
+Business objectives describe what the organization wants to accomplish.
 
 | # | Business Objective | Desired Direction |
 |---|---|---|
@@ -63,9 +83,15 @@ Rockstar operates in a competitive gaming industry where player expectations, te
 | 4 | Maintain Competitive Advantage | Deliver innovative and high-quality gaming experiences. |
 | 5 | Improve Operational Sustainability | Maintain efficient, reliable, and sustainable game operations. |
 
-**Summary:** Rockstar aims to maintain player engagement, maximize game success, grow recurring revenue, preserve its competitive advantage, and sustain efficient operations.
+### Business Objectives Summary
 
-## 6. Business Opportunities
+Rockstar aims to maintain player engagement, maximize game success, grow recurring revenue, preserve its competitive advantage, and sustain efficient operations.
+
+---
+
+## 5. Business Opportunities
+
+Business opportunities represent potential ways the organization could create additional value, improve performance, or achieve its objectives.
 
 | # | Business Opportunity | Potential Value |
 |---|---|---|
@@ -75,9 +101,15 @@ Rockstar operates in a competitive gaming industry where player expectations, te
 | 4 | Support User-Generated Content and Creators | Encourage community participation and engagement. |
 | 5 | Improve Development Efficiency | Reduce inefficiencies while maintaining quality. |
 
-**Summary:** Rockstar may create additional value through improved player insights, stronger online ecosystems, recurring revenue models, creator communities, and more efficient development processes.
+### Business Opportunities Summary
 
-## 7. Desired Business Outcomes
+Rockstar may create additional value through improved player insights, stronger online ecosystems, recurring revenue models, creator communities, and more efficient development processes.
+
+---
+
+## 6. Desired Business Outcomes
+
+Business outcomes describe the results the organization hopes to achieve after addressing its business needs or implementing changes.
 
 | # | Desired Business Outcome | Potential Measurement |
 |---|---|---|
@@ -87,33 +119,43 @@ Rockstar operates in a competitive gaming industry where player expectations, te
 | 4 | Improved Online Experience | Server uptime, player complaints |
 | 5 | More Efficient Development | Development time, costs, milestone completion |
 
-**Summary:** Successful business changes may result in stronger player engagement, sustainable revenue, successful game releases, improved online experiences, and more efficient operations.
+### Business Outcomes Summary
 
-## 8. Key Findings
+Successful business changes may result in stronger player engagement, sustainable revenue, successful game releases, improved online experiences, and more efficient operations.
+
+---
+
+## 7. Key Findings
+
+The following findings summarize the most important areas identified during the analysis.
 
 | Category | Finding |
 |---|---|
-| Most Important Business Need | Sustain long-term player engagement and revenue across Rockstar's gaming ecosystem. |
-| Most Important Potential Problem | High dependence on major game releases and franchises may expose the business to revenue fluctuations. |
-| Most Important Business Objective | Maintain player engagement while maximizing the commercial success and long-term value of its games. |
-| Most Promising Opportunity | Improve player engagement through better understanding of player behavior, feedback, and content preferences. |
-| Potential Desired Outcome | Maintain strong player engagement, generate sustainable revenue, and operate the gaming ecosystem efficiently. |
+| **Most Important Business Need** | Sustain long-term player engagement and revenue across Rockstar's gaming ecosystem. |
+| **Most Important Potential Problem** | High dependence on major game releases and franchises may expose the business to revenue fluctuations. |
+| **Most Important Business Objective** | Maintain player engagement while maximizing the commercial success and long-term value of its games. |
+| **Most Promising Opportunity** | Improve player engagement through better understanding of player behavior, feedback, and content preferences. |
+| **Potential Desired Outcome** | Maintain strong player engagement, generate sustainable revenue, and operate the gaming ecosystem efficiently. |
 
-## 9. Assumptions & Limitations
+---
 
-**Assumptions**
+## 8. Assumptions & Limitations
+
+### Assumptions
 
 - Player engagement contributes to the long-term value of Rockstar's games.
 - Recurring revenue is important to its business model.
 - Major game releases represent significant business events.
 
-**Limitations**
+### Limitations
 
 - Analysis is based on publicly available information.
 - Internal processes and performance data are unavailable.
 - Identified problems and root causes are hypotheses, not confirmed issues.
 
-## 10. Conclusion
+---
+
+## 9. Conclusion
 
 Rockstar Games needs to maintain player engagement, deliver successful major releases, generate recurring revenue, and sustain its competitive advantage.
 
@@ -123,11 +165,36 @@ Further Business Analysis is required to validate these potential problems and i
 
 ---
 
-## References
+## 🔍 Next Analysis Phase
 
-1. [Take-Two Interactive — SEC Filings](https://www.sec.gov/edgar/browse/?CIK=946581&owner=exclude) — Business risks, competition, product development, and franchise dependence.
-2. [Take-Two Interactive — Investor Relations](https://ir.take2games.com/) — Financial performance and business strategy.
-3. [Rockstar Games](https://www.rockstargames.com/) — Official company and product information.
+The next step is to identify the people and groups involved in, affected by, or interested in Rockstar Games' business activities.
+
+**Next: Stakeholder Analysis**
+
+---
+
+## 📚 Project BA
+
+This case study is part of:
+
+**Project BA — 1-Year Quest to Map 100 Business Processes**
+
+The objective is to develop Business and Systems Analysis capabilities through practical analysis of business processes, problems, requirements, and potential solutions.
+
+### Case Study Documentation
+
+```text
+project-ba/
+│
+├── README.md
+│
+└── case-studies/
+    │
+    └── 001-rockstar-games/
+        ├── README.md
+        └── I-business-context.md
+        └── II-business-needs-problems-objectives.md
+```
 
 ---
 
