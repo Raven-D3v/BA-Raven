@@ -155,7 +155,29 @@ The following findings summarize the most important areas identified during the 
 
 ---
 
-## 9. Conclusion
+
+---
+
+## 9. External References
+
+The following sources provide publicly available information used to establish the business context and support the analysis.
+
+| # | Reference | Description | Source Link |
+|---|---|---|---|
+| 1 | Take-Two Interactive SEC Filing | Identifies risks involving competition, product development, release timing, franchise dependence, technology, security, and personnel. | [Securities and Exchange Commission](https://www.sec.gov/Archives/edgar/data/946581/000162828026072254/ttwo-20260930.htm?utm_source=chatgpt.com) |
+| 2 | Take-Two Interactive FY2026 Annual Report | Describes Rockstar's strategy of developing a limited number of high-quality titles with long market lifecycles and incremental revenue opportunities from virtual currency, add-on content, and in-game purchases. | [Take-Two Interactive](https://ir.take2games.com/static-files/31b9a69d-016e-4d72-9d91-b911f1313bed?utm_source=chatgpt.com) |
+| 3 | Take-Two Interactive FY2026 Results | Shows the importance of recurrent consumer spending, including virtual currency, add-on content, and in-game purchases, to the company's revenue. | [Take-Two Interactive Software, Inc.](https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fourth-2?utm_source=chatgpt.com) |
+
+### Reference Notes
+
+- Sources are used to support the publicly available business information discussed in this analysis.
+- Business problems, opportunities, and findings represent analytical interpretations based on the available information.
+- References do not necessarily confirm the existence of the potential internal business problems identified.
+
+
+---
+
+## 10. Conclusion
 
 Rockstar Games needs to maintain player engagement, deliver successful major releases, generate recurring revenue, and sustain its competitive advantage.
 
