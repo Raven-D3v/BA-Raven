@@ -5,7 +5,7 @@
   <img src="src/Rockstar-Banner.webp" alt="Rockstar Games Banner" width="100%">
 </p>
 
-## 02 Business Needs, Problems & Objectives
+## II. Business Needs, Problems & Objectives
 
 **Project:** Project BA — 1-Year Quest to Analyze 100 Business Processes  
 **Company:** Rockstar Games  
