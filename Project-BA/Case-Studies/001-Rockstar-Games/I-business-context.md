@@ -353,3 +353,9 @@ project-ba/
     └── 001-rockstar-games/
         ├── README.md
         └── I-business-context.md
+```
+
+---
+
+*Project BA — 1-Year Quest to Map 100 Business Processes.* <br>
+*By: RavenKlein T. Rubin (Project Raven)*
