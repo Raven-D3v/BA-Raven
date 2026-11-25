@@ -220,4 +220,5 @@ project-ba/
 
 ---
 
-*Project BA — 1-Year Quest to Analyze 100 Business Processes.*
+*Project BA — 1-Year Quest to Map 100 Business Processes.* <br>
+*By: RavenKlein T. Rubin (Project Raven)*
