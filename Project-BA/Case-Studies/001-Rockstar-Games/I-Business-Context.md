@@ -4,7 +4,7 @@
   <img src="src/Rockstar-Banner.webp" alt="Rockstar Games Banner" width="100%">
 </p>
 
-## Business Context Analysis
+## I. Business Context Analysis
 
 > **Project BA — 1-Year Quest to Map 100 Business Processes**
 
